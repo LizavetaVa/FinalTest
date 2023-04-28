@@ -1,0 +1,15 @@
+/Users/new/Documents/GitHub/FinalTest/array/bin/Debug/net7.0/array
+/Users/new/Documents/GitHub/FinalTest/array/bin/Debug/net7.0/array.deps.json
+/Users/new/Documents/GitHub/FinalTest/array/bin/Debug/net7.0/array.runtimeconfig.json
+/Users/new/Documents/GitHub/FinalTest/array/bin/Debug/net7.0/array.dll
+/Users/new/Documents/GitHub/FinalTest/array/bin/Debug/net7.0/array.pdb
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/array.csproj.AssemblyReference.cache
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/array.AssemblyInfoInputs.cache
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/array.AssemblyInfo.cs
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/array.csproj.CoreCompileInputs.cache
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/array.dll
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/refint/array.dll
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/array.pdb
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/array.genruntimeconfig.cache
+/Users/new/Documents/GitHub/FinalTest/array/obj/Debug/net7.0/ref/array.dll
